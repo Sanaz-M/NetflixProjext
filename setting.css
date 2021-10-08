@@ -1,0 +1,16 @@
+body{
+background-color: #101010;
+padding: 0 60px;
+}
+
+#container-body{
+    background-color:#f3f3f3;
+}
+
+#links{
+    text-decoration: none;
+}
+
+#cancel-button {
+    background-color: #d3d1d1;
+}
